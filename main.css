@@ -1,11 +1,58 @@
-div {
-  border: 20px solid #000; /* this is short hand for setting
-                            the border's width, its type, and color */
-  display: inline-block; /* a way of positioning elements */
-  min-width: 20em; /* the two min styles make the shape */
-  min-height: 25em; /* of the divs oblong*/
-  border-radius: 50%; /* this makes the normally square div round */
-  border-left-color: transparent; /* these remove the color from the left side */
-  border-right-color: transparent; /* the right side */
-  border-bottom-color: transparent; /* and the bottom of the circle */
+#red{
+  background-color: red;
+  padding: 10px; /* this sets the background color to red */
+  border-top: 4px solid #f00;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-top-color: #f00;
 }
+#orange{
+  background-color: orange;
+  padding: 10px; /* this sets the background color to orange */
+  border-top: 4px solid #ffa500;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-top-color: #ffa500;
+}
+#yellow{
+  background-color: yellow;
+  padding: 10px; /* this sets the background color to yellow */
+  border-top: 4px solid #ff0;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-top-color: #ff0;
+}
+#green{
+  background-color: green;
+  padding: 10px; /* this sets the background color to green */
+  border-top: 4px solid #008000;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-top-color: #00bc3f;
+}
+#blue{
+  background-color: blue;
+  padding: 10px; /* this sets the background color to blue */
+  border-top: 4px solid #0000ff;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-top-color: #06f;
+}
+#indigo{
+  background-color: indigo;
+  padding: 10px; /* this sets the background color to indigo */
+  border-top: 4px solid #4b0082;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-top-color: #8a2be2;
+}
+#violet{
+  background-color: violet;
+  padding: 10px; /* this sets the background color to violet */
+  border-top: 4px solid #ee82ee;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-top-color: #d300c9;
+}
+
+ 
